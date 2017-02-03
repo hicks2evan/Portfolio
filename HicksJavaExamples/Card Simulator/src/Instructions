@@ -1,0 +1,26 @@
+ ____   _____    ___    ____   ____      ___   ___   _  _  _   ____
+|0000| /   __|  /   \  | __ \ | __ \    /  _\ |___| | \/ \/ | |XXXX| Instructions
+|0000| |  |__  | /_\ | | || | | || |   _\  \   ___  |       | |XXXX|
+|0000| \_____| |_| |_| |_|\_\ |____/   \___/   |_|  |_|\_/|_| |XXXX| By Evan Hicks and George Wang
+ 
+ Our project is a simple card simulator.  You can simulate the play of simple card games using variations
+ of the shuffle, draw, and deal functions.
+ 
+ Upon opening the game the deck will automatically be initialized and shuffled.
+ 
+ To draw cards, enter a valid number between 1 and 52 and click the "Draw" button. The drawn card or set 
+ of cards will appear in the output.
+ 
+ To deal cards a a number of players, enter a valid number of cards between 1 and 52 and a valid number of players
+ (the number of players multiplied by the number of cards must be a number between 1 and 52) and click the "Deal" 
+ button. The dealt cards, separated by player, will appear in the output.
+ 
+ To re-shuffle the current remaining deck at any point, press the "Shuffle Deck" button.
+ 
+ To view the current remaining deck, click the "Display Deck" button. The deck will print to output in its current
+ order.
+ 
+ To reset the deck to ascending order, starting with spades, then hearts, then diamonds, then clubs, press the "Reset
+ Deck" button.
+ 
+ 

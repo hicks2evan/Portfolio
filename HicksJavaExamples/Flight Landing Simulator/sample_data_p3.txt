@@ -1,0 +1,13 @@
+2
+CareFlight101      0     2
+PiperCub           0     99
+AirAmbulance       0     1
+TransWorld122      1     5
+Cessna152          1     99
+Eastern429         1     10
+Republic804        1     11
+AmericaWest331     2     8
+GoodyearBlimp      2     98
+NorthCentral155    2     11
+TransplantAir      2     1
+PanAm501           3     15
