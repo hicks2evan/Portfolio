@@ -1,0 +1,7 @@
+This is an early version of a site I am designing to show a trivial comparison between the physical event of an earthquake and the resulting physical wave compared to the resulting wave of tweets that occurs on the social media site Twitter.
+
+This site queries two APIs: the Twitter search API and an API called Kuakes API the keeps track of 20 recent earthquake events. My goal was to query the Kuakes API to get recent earthquakes, find relevant tweets, and then be able to visualize a comparison of the waves based on geographic data. 
+
+I found some limitations, many tweets don’t contain geo data because of privacy settings, so the search by location is returning mixed results. Additionally, I have found it challenging to semantically delimit the content in tweets, in particular my application returns a lot of tweets by accounts that recreate battle simulations from the popular “Pokemon” game franchise, particularly including the use of the powerful attack “earthquake”.
+
+Also, the 20 earthquake limitation means that my getNewEarthquakes() function often returns 20 new earthquakes, and often only returns 0 or a few new earthquakes. It would be better if I could call it when I knew for certain that there would be 20 new earthquakes.
