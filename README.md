@@ -1,7 +1,7 @@
 # Portfolio (2017)
-A portfolio of Evan's work for Employers
+A portfolio of Evan's work he created for employers to look at in 2017.
 
-This is a collection of Evan's work from his programming classes and personal projects for employers to look at.
+This is a collection of Evan's work from his programming classes and personal projects.
 
 ## Java Examples:
 
