@@ -1,9 +1,9 @@
-# Portfolio (2016)
+# Portfolio (2017)
 A portfolio of Evan's work for Employers
 
 This is a collection of Evan's work from his programming classes and personal projects for employers to look at.
 
-## Included:
+## Java Examples:
 
 Card Simulator: Deck of cards simulation built as a final project for Intro to Computer Science III. Intended to be a non-restricted card game tool.
 
@@ -12,4 +12,8 @@ Flight Landing Simulator: Simulates queuing of incoming flights for small and la
 Simple Calculator: A basic calculator made in class as an exercise in math, operators, user input and exceptions.
 
 Simple Cipher: A basic message cipher made in class as an exercise in string manipulation, exceptions and user input.
+
+## twitterwave:
+
+Based on xkcd comic https://xkcd.com/723/, tried writing some code to correlate seismic activity with twitter activity. I wrote it in PHP. Guessing the twitter oauth is no good in it anymore. Hope it gives you a quick laugh :)
 
